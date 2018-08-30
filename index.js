@@ -20,6 +20,6 @@ function logwhisper(string){
 }
 
 
-function sayHiToGrandma(string === string.lowerCase){
-  return "I can´t hear you!"
-}
+//function sayHiToGrandma(string === string.lowerCase){
+//  return "I can´t hear you!"
+//}
